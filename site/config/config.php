@@ -31,5 +31,4 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 c::set('home','projects');
 
-
 c::set('debug', false);
