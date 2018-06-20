@@ -1,0 +1,48 @@
+Title: Contact
+
+----
+
+Subtitle: Let’s connect!
+
+----
+
+Text: 
+
+**Studio Bêta**, Inc.
+1234 Muse Street,
+Boston, ABCD 01234
+
+012-345-6789
+<hello@betastudio.co>
+
+----
+
+Mailto: you.mail@mail.com
+
+----
+
+Sender: contact@yourdomain.co
+
+----
+
+Errortitle: Oops ... I'm sorry.
+
+----
+
+Errortext: Something went wrong and your message was not sent.
+
+----
+
+Errortitle2: Error…
+
+----
+
+Errortext2: Please fill in the required fields.
+
+----
+
+Successtitle: That's done !
+
+----
+
+Successtext: Thanks for your inquiry. We’ll be in touch soon.

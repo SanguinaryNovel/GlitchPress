@@ -1,0 +1,20 @@
+Title: Glitch Press
+
+----
+
+Author: Allison Walker
+
+----
+
+Description: Simple theme for studio agency.
+
+----
+
+Keywords: Kirby,CMS,file-based
+
+----
+
+Copyright:
+
+Copyright © (date: Year) (link: http://www.starck.io text: starck.io)
+All rights reserved.
