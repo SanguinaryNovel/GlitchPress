@@ -1,0 +1,88 @@
+title: Contact
+pages: false
+deletable: false
+files: true
+icon:  envelope
+fields:
+  tab1:
+    label: General
+    type:  tabs
+  title:
+    label: Page
+    type:  text
+    width: 1/4
+  subtitle:
+    label: Title
+    type:  text
+    width: 3/4
+    help: If you want a different title from the page name.
+  text:
+    label: Text
+    type:  textarea
+    icon:  address-card
+
+  tab2:
+    label: Setting
+    type:  tabs
+  infotab2:
+    label: Setting address mails
+    type: info
+    text: >
+      Make sure to fill in all the fields correctly to receive the messages.
+
+  mailto:
+    label: Form To
+    type:  text
+    width: 1/2
+  sender:
+    label: Form Sender
+    type:  text
+    width: 1/2
+
+  tab3:
+    label: Error send
+    type:  tabs
+  infotab3:
+    label: Setting error send
+    type: info
+    text: >
+      Displays the error message below if the server failed to send the message.
+
+  errortitle:
+    label: Title
+    type:  text
+  errortext:
+    label: Text
+    type:  textarea
+
+  tab4:
+    label: Error infos
+    type:  tabs
+  infotab4:
+    label: Setting error fields
+    type: info
+    text: >
+      Displays the error message below if the fields are not filled correctly.
+
+  errortitle2:
+    label: Title
+    type:  text
+  errortext2:
+    label: Text
+    type:  textarea
+
+  tab5:
+    label: Success text
+    type:  tabs
+  infotab5:
+    label: Setting success send
+    type: info
+    text: >
+      Displays the success message below if the message has been successfully sent.
+
+  successtitle:
+    label: Title
+    type:  text
+  successtext:
+    label: Text
+    type:  textarea

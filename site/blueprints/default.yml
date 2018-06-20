@@ -1,0 +1,16 @@
+title: Default
+pages: true
+files: true
+fields:
+  title:
+    label: Page
+    type:  text
+    width: 1/4
+  subtitle:
+    label: Title
+    type:  text
+    width: 3/4
+    help: If you want a different title from the page name.
+  text:
+    label: Text
+    type:  textarea
