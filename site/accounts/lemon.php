@@ -5,6 +5,6 @@ firstname: Lemon
 lastname: 🍋
 email: lemon@thefpl.us
 password: >
-  $2a$10$POd5FFA/7eSqzH0a8YlXXeqEEr1o6ZXH6dk9cxWhiKBTnpjygsvnC
+  $2a$10$Yj7e/jqbFFmqj3UaZbVLueVUuWBX4y6iZ6eiAGjgyw6IDTkzHeNte
 language: en
 role: admin
