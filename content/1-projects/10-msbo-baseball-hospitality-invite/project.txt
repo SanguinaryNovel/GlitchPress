@@ -1,0 +1,21 @@
+Title: MSBO Baseball Hospitality Invite
+
+----
+
+Year: 2018
+
+----
+
+Cover-image: msbo_tigerinvite_outer2b.jpg
+
+----
+
+Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce volutpat sapien non felis blandit feugiat. Integer tincidunt, enim ac tempor eleifend, diam purus interdum sem, sagittis pretium metus tellus at libero. Cras pellentesque erat et ante rutrum imperdiet. Nunc in lorem aliquam, tristique libero ut, auctor orci. Nullam augue sem, rutrum et convallis sit amet, volutpat nec mauris. Etiam ac viverra justo. Nulla vel sollicitudin lacus. Vestibulum eget lectus sed ante scelerisque congue in in ante. Maecenas vitae sapien et urna pulvinar vestibulum. Sed ultricies enim pellentesque, dignissim eros vel, vestibulum dui.
+
+----
+
+Client: Kingscott Associates
+
+----
+
+Tools: Illustrator, InDesign

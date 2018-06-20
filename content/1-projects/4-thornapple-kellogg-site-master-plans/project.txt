@@ -1,0 +1,25 @@
+Title: Thornapple-Kellogg Site Master Plans
+
+----
+
+Year: 2017
+
+----
+
+Cover-image: thornapple-kellogg_athleticcmplx_masterplan.jpg
+
+----
+
+Text: 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce volutpat sapien non felis blandit feugiat. Integer tincidunt, enim ac tempor eleifend, diam purus interdum sem, sagittis pretium metus tellus at libero. Cras pellentesque erat et ante rutrum imperdiet. Nunc in lorem aliquam, tristique libero ut, auctor orci. Nullam augue sem, rutrum et convallis sit amet, volutpat nec mauris. Etiam ac viverra justo. Nulla vel sollicitudin lacus. Vestibulum eget lectus sed ante scelerisque congue in in ante. Maecenas vitae sapien et urna pulvinar vestibulum. Sed ultricies enim pellentesque, dignissim eros vel, vestibulum dui.
+
+Vestibulum sem lacus, tincidunt nec suscipit nec, convallis ultricies mauris. Suspendisse viverra dapibus diam. Sed lobortis ultrices cursus. Suspendisse potenti. Etiam tincidunt volutpat ex vel accumsan. Donec a purus ac tellus euismod sollicitudin non non mi. Proin aliquet fringilla aliquam. Quisque vitae finibus purus. Phasellus porta malesuada lectus tincidunt hendrerit. Nullam vel tellus sapien. Proin sit amet consequat dui. Duis sagittis nulla sit amet ante lobortis, ut tincidunt mi convallis. Vivamus fringilla odio ac turpis porta, sagittis mollis massa bibendum. Vivamus rutrum mauris dui, ac pulvinar eros eleifend vel. Duis iaculis erat tincidunt sapien pellentesque porta.
+
+----
+
+Client: Kingscott Associates for Thornapple-Kellogg School District
+
+----
+
+Tools: Illustrator

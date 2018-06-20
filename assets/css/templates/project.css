@@ -1,0 +1,74 @@
+/* Project infos
+-------------------------------------------------- */
+.project-info h1 {
+	margin-bottom: .2rem;
+}
+.project-info time {
+	color: #9ba5a8;
+	font-size: 1.5em;
+	margin-bottom: 1.5rem;
+	display: inline-block;
+}
+.project-info .tags {
+	margin: 0 0 1.5em;
+	font-weight: 500;
+}
+.project-info .tags li {
+	float: left;
+	list-style: none;
+	margin-right: 2em;
+}
+.project-info .tags li span {
+	color: #9ba5a8;
+	font-weight: 400;
+}
+
+
+/* Project meta
+-------------------------------------------------- */
+.meta {
+	margin-bottom: 1.5em;
+}
+.meta li {
+	float: left;
+	list-style: none;
+	margin-right: 2em;
+}
+.meta li b {
+	font-weight: 500;
+	color: #aaa;
+}
+.meta li span:last-of-type {
+	display: none;
+}
+.meta li a.twit {
+	color: #4099ff;
+}
+.meta li a.face {
+	color: #3B5998;
+}
+.meta li a.goog {
+	color: #db5a3c;
+}
+.meta li a.twit:hover,
+.meta li a.face:hover,
+.meta li a.goog:hover {
+	color: #222;
+}
+
+
+/* Next/Prev nav
+-------------------------------------------------- */
+.nextprev {
+	padding: 1em 0;
+}
+.nextprev a,
+.nextprev a:hover {
+	border: 0;
+}
+.nextprev .prev {
+	float: left;
+}
+.nextprev .next {
+	float: right;
+}

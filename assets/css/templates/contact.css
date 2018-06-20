@@ -1,0 +1,97 @@
+/* Forms
+-------------------------------------------------- */
+form {
+	font-size: 0;
+	padding-top: 1.5em;
+}
+form p {
+	width: 100%;
+	display: inline-block;
+	font-size: 1rem;
+	margin-bottom: 1.5rem;
+}
+form label {
+	display: block;
+	margin-bottom: .5rem;
+	font-weight: 600;
+}
+form .field.error label {
+	color: #f40000;
+}
+form input,
+form textarea {
+	width: 100%;
+	background: none;
+	border: 2px solid #ddd;
+	padding: .5rem;
+	font-family: inherit;
+	font-size: inherit;
+	line-height: 1.5em;
+	border-radius: 0;
+	appearance: none;
+	box-shadow: none;
+}
+form input:focus,
+form textarea:focus {
+	border-color: #000;
+}
+form textarea {
+	height: 10em;
+	resize: vertical;
+}
+form button {
+	padding: .5rem 1.5rem;
+	line-height: 1.5em;
+	font-family: inherit;
+	font-size: inherit;
+	border: 2px solid #000;
+	background: #000;
+	color: #fff;
+	font-weight: 600;
+	width: 100%;
+	cursor: pointer;
+}
+form button::-moz-focus-inner {
+	border: 0;
+	padding: 0;
+}
+form button:hover {
+	background: #82D173;
+	border-color: #4400e3;
+}
+
+form .honeypot {
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+}
+
+
+/* Warning messages
+-------------------------------------------------- */
+.alert {
+	padding: .5em 1em;
+	margin-bottom: 1.5em;
+	font-size: 1em;
+	color: #fff;
+	background: #4400e3;
+	position: relative;
+	display: inline-block;
+	border-radius: 3px;
+}
+.alert p {
+	margin-bottom: .5rem;
+}
+.alert p:last-of-type {
+	margin-bottom: 0;
+}
+.alert a {
+	color: inherit;
+	font-weight: bold;
+}
+.alert.error {
+	background: #f40000;
+}
+.alert.success {
+	background: #5ccc79;
+}
