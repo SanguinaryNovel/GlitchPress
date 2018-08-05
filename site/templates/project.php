@@ -9,7 +9,6 @@
 		</div>
 		<div class="box-right">
 		<?php echo $page->text()->kirbytext() ?>
-		<span class="toolclient">Client:</span><?php echo $page->client() ?> <br>
 		<span class="toolclient">Tools:</span><?php echo $page->tools() ?>
 		</div>
 	</div>
