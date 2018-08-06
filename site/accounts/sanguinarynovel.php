@@ -7,9 +7,8 @@ email: aberrant.whimsy@gmail.com
 language: en
 role: admin
 history:
-  - >
-    projects/msbo-baseball-hospitality-invite
-  - projects/artificial-turf-diagram
-  - projects/mattawan-later-elementary-mural
-  - projects/kingscott-holiday-package
-  - projects/kbac-brochure
+  - projects/grumpy-s-ui-concepts
+  - projects/pretend-world-illustrations
+  - contact
+  - studio
+  - projects/msbo-baseball-hospitality-invite

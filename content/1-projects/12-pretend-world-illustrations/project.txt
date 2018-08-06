@@ -1,0 +1,21 @@
+Title: Pretend.World Illustrations
+
+----
+
+Year: 2018
+
+----
+
+Cover-image: pretendworld_2_win.jpg
+
+----
+
+Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet neque at sem lobortis aliquam nec at diam. Sed vel ante facilisis, lacinia nibh lobortis, ultrices odio. In ornare nunc enim, eu congue elit condimentum luctus. Duis egestas semper ante eget venenatis. Praesent et nibh vel dui pharetra blandit in interdum mi. Ut ullamcorper orci et tortor molestie viverra quis vitae libero. Curabitur a semper ligula, at lacinia turpis. Vivamus ligula ex, rutrum at ex bibendum, dapibus pellentesque urna. Mauris gravida posuere facilisis. In dignissim nunc eu nisl hendrerit, et hendrerit enim mollis.
+
+----
+
+Client: Lemon @ ahoylemon.xyz/
+
+----
+
+Tools: Brush and ink, Photoshop

@@ -1,6 +1,6 @@
 	<footer class="footer cf" role="contentinfo">
 		<div class="colophon">
-			<a href="http://getkirby.com/made-with-kirby-and-love">Made in Kirby with <span class="heart"></span></a>
+			<p>All images and works © Allison W. 2018</p>
 		</div>
 	</footer>
 

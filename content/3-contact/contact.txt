@@ -8,20 +8,18 @@ Subtitle: Let’s connect!
 
 Text: 
 
-**Studio Bêta**, Inc.
-1234 Muse Street,
-Boston, ABCD 01234
+Contact me for job inquiries and commissions:
 
-012-345-6789
-<hello@betastudio.co>
+269.200.6288
+<allison.kay.walker@gmail.com>
 
 ----
 
-Mailto: you.mail@mail.com
+Mailto: allison.kay.walker@gmail.com
 
 ----
 
-Sender: contact@yourdomain.co
+Sender: contact@allisonw.xyz.com
 
 ----
 
@@ -41,7 +39,7 @@ Errortext2: Please fill in the required fields.
 
 ----
 
-Successtitle: That's done !
+Successtitle: That's done!
 
 ----
 

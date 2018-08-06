@@ -1,4 +1,4 @@
-Title: Glitch Press
+Title: Allisonw.xyz - Design From Beginning to End
 
 ----
 
@@ -6,15 +6,15 @@ Author: Allison Walker
 
 ----
 
-Description: Simple theme for studio agency.
+Description: Portfolio and resume for Allison W.
 
 ----
 
-Keywords: Kirby,CMS,file-based
+Keywords: Graphic design, illustration, Photoshop, Illustrator, InDesign
 
 ----
 
 Copyright:
 
-Copyright © (date: Year) (link: http://www.starck.io text: starck.io)
+Copyright © (date: Year)
 All rights reserved.

@@ -56,8 +56,8 @@ form button::-moz-focus-inner {
 	padding: 0;
 }
 form button:hover {
-	background: #82D173;
-	border-color: #4400e3;
+	background: #23f0c7;
+	border-color: #270f33;
 }
 
 form .honeypot {

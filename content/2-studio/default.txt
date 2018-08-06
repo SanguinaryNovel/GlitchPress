@@ -1,0 +1,106 @@
+Title: Resume
+
+----
+
+Subtitle: Qualifications and Experience
+
+----
+
+Text: 
+
+##Experience
+
+#### Kingscott Associates
+*Graphic Designer*
+04/2014 - Present
+
+<ul>
+<li>Design materials, pop-up websites for public school bond campaigns
+<li>Assist architects and interior designers with graphic needs: site plans, signage/wayfinding, murals, client logos, etc.
+<li>Design and manage company branding and marketing materials, internal documents, and recruiting materials
+<li>Photography planning and scheduling
+<li>Collaborate with Marketing Director on proposals, advertising, and hospitalities
+<li>Manage company website
+</ul>
+
+#### Western Michigan University
+*Print Lab Assistant*
+06/2012 - 04/2014
+
+<ul>
+<li>Support print students during lab hours
+<li>Prepare print demos for teachers
+<li>Mix, refill, and stock chemicals and inks
+<li>Monitor supplies, equipment condition
+<li>Curate and hang work in hallways
+</ul>
+
+##Education
+
+#### Western Michigan University
+*Bachelors of Fine Arts with an Emphasis in Printmaking*
+2011-2014
+
+<ul>
+<li>Lithography
+<li>Screenprint
+<li>Woodcut (Western and Japanese)
+<li>Typesetting/Letterpress
+<li>Bookbinding
+</ul>
+
+#### Kalamazoo Valley Community College
+*Associates in Art and New Media*
+2007-2011
+
+<ul>
+<li> Adobe Creative Suite
+<li> Foundational Arts Training
+<li> Illustration
+<li> Storyboarding
+<li> English
+<li> Japanese to Intermediate Level
+</ul>
+
+##Organizations
+
+####Kalamazoo Book Arts Center
+*Board of Directors*, 2014 - Present
+
+####AIGA
+*General Member*, 2014 - 2017
+
+##Skills
+
+####Core
+<ul>
+<li>InDesign
+<li>Illustrator
+<li>Photoshop
+<li>Drawing & visualization
+<li>Office and Google Suites
+</ul>
+
+####Traditional
+<ul>
+<li>Illustration
+<li>Inking
+<li>Printmaking
+<li>Bookbinding
+</ul>
+
+####Web
+<ul>
+<li>Basic HTML/CSS
+<li>Atom/GitHub
+<li>CMS: Wordpress, Drupal
+<li>Social media
+</ul>
+
+####Web
+<ul>
+<li>Project management
+<li>Collaboration with clients
+<li>Self-directed learning
+<li>Budgeting
+</ul>

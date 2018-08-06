@@ -1,0 +1,21 @@
+Title: Grumpy's UI Concepts
+
+----
+
+Year: 2018
+
+----
+
+Cover-image: grumpys_main.jpg
+
+----
+
+Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar dignissim risus. In hac habitasse platea dictumst. Aliquam eget viverra risus. Donec vel lacus tellus. Praesent id efficitur sem, tempus accumsan odio. Aenean nec justo leo. Donec feugiat dictum massa ac auctor. Cras eget nunc ut tortor gravida scelerisque a nec nunc. Etiam fringilla cursus nisi, luctus ornare ex volutpat eget. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam semper nulla purus, vel ullamcorper neque condimentum a. Vestibulum dolor libero, condimentum eu pharetra eu, semper a arcu. Vivamus vulputate urna quis felis facilisis, at molestie sem ultricies.
+
+----
+
+Client: Lemon for Grumpy's Bar and Grill
+
+----
+
+Tools: Illustrator
