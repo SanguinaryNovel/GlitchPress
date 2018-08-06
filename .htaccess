@@ -16,7 +16,7 @@ RewriteEngine on
 #
 
 <If "req('Host') == 'localhost'>
-  RewriteBase /allison
+  RewriteBase /allisonwxyz
 </If>
 
 # block text files in the content folder from being accessed directly
