@@ -13,11 +13,7 @@ RewriteEngine on
 #
 # If your homepage is http://yourdomain.com/mysite
 # Set the RewriteBase to:
-#
-
-<If "req('Host') == 'localhost'>
-  RewriteBase /allisonwxyz
-</If>
+RewriteBase /allisonwxyz
 
 # block text files in the content folder from being accessed directly
 RewriteRule ^content/(.*)\.(txt|md|mdown)$ error [R=301,L]
