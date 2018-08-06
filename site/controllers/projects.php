@@ -13,7 +13,7 @@ return function($site, $pages, $page) {
   $tags = $projects->pluck('tags', ',', false);
 
   // apply pagination
-  $projects   = $projects->paginate(9);
+  $projects   = $projects->paginate(25);
   $pagination = $projects->pagination();
 
   return compact('projects', 'tags', 'tag', 'pagination');

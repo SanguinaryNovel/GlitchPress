@@ -12,7 +12,7 @@ ul.grid {
 	border: none;
 	text-align: center;
 	text-shadow: 0 1px 4px rgba(0,0,0,.25);
-	background: #82D173;
+	background: #270f33;
 	display: block;
 	overflow: hidden;
 	position: relative;
@@ -20,6 +20,14 @@ ul.grid {
 }
 .grid li a:hover {
 	color: #fff;
+}
+.grid a h1 {
+	visibility: hidden;
+}
+.grid a:hover h1 {
+	visibility: visible;
+	transition: .6s ease;
+	padding: 15px;
 }
 .grid li a > div {
 	width: 100%;

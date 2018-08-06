@@ -141,7 +141,7 @@ a {
 	transition: color .15s ease-out, background-color .15s ease-out;
 }
 a:hover {
-	color: #9ba5a8;
+	color: #23f0c7;
 }
 
 
@@ -328,7 +328,7 @@ body.is-active-menu {
 }
 .menu a:focus::before,
 .menu a:hover::before {
-	background: #82D173;
+	background: #23f0c7;
 	transform: scale3d(1,1,1);
 }
 .menu a:hover {
