@@ -12,9 +12,13 @@ Cover-image: wmu-stainedglass_finalexterior2.jpg
 
 Text: 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce volutpat sapien non felis blandit feugiat. Integer tincidunt, enim ac tempor eleifend, diam purus interdum sem, sagittis pretium metus tellus at libero. Cras pellentesque erat et ante rutrum imperdiet. Nunc in lorem aliquam, tristique libero ut, auctor orci. Nullam augue sem, rutrum et convallis sit amet, volutpat nec mauris. Etiam ac viverra justo. Nulla vel sollicitudin lacus. Vestibulum eget lectus sed ante scelerisque congue in in ante. Maecenas vitae sapien et urna pulvinar vestibulum. Sed ultricies enim pellentesque, dignissim eros vel, vestibulum dui.
+Kingscott was working for Western Michigan University under a Time and Materials contract with the renovation of Kanley Chapel being a part of that work. The exterior louvers in the tower were to be removed and the WMU group in charge of campus beautification requested artwork for the panels.  Traditional stained glass was prohibitively expensive, so the school and Kingscott settled on a digitally printed film.
 
-Vestibulum sem lacus, tincidunt nec suscipit nec, convallis ultricies mauris. Suspendisse viverra dapibus diam. Sed lobortis ultrices cursus. Suspendisse potenti. Etiam tincidunt volutpat ex vel accumsan. Donec a purus ac tellus euismod sollicitudin non non mi. Proin aliquet fringilla aliquam. Quisque vitae finibus purus. Phasellus porta malesuada lectus tincidunt hendrerit. Nullam vel tellus sapien. Proin sit amet consequat dui. Duis sagittis nulla sit amet ante lobortis, ut tincidunt mi convallis. Vivamus fringilla odio ac turpis porta, sagittis mollis massa bibendum. Vivamus rutrum mauris dui, ac pulvinar eros eleifend vel. Duis iaculis erat tincidunt sapien pellentesque porta.
+The school was unsatisfied with the designs provided by the design architects, so project landed on my desk. Speaking with the WMU group, they indicated that the artwork must be secular, but also celebrate campus life.  The group also stressed abstraction in form, and to relate it to the student-made traditional stained glass work in the chapel building proper.
+
+The concept for the panels started by thinking about the function of a chapel on a university campus. Religious services provide a "guiding light" to students, helping them find their way in a new world. Keeping it more secular, I focused on four aspects of humanity and education that provide a guiding light for all of man: literature, sciences, arts, and the human connection. 
+
+The images were drafted out and outlined in Illustrator, the color palette pulled directly from the Kanley Chapel stained glass work. Since a film cannot directly mimic the nature of stained glass,  the effect was replicated through pulling the brightest highlights of the Kanley glass and overlaying stained glass textures in Photoshop. The films were then applied to each side of the glass panes, deepening the color.
 
 ----
 

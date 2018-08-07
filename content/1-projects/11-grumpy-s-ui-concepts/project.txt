@@ -10,7 +10,7 @@ Cover-image: grumpys_main.jpg
 
 ----
 
-Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar dignissim risus. In hac habitasse platea dictumst. Aliquam eget viverra risus. Donec vel lacus tellus. Praesent id efficitur sem, tempus accumsan odio. Aenean nec justo leo. Donec feugiat dictum massa ac auctor. Cras eget nunc ut tortor gravida scelerisque a nec nunc. Etiam fringilla cursus nisi, luctus ornare ex volutpat eget. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam semper nulla purus, vel ullamcorper neque condimentum a. Vestibulum dolor libero, condimentum eu pharetra eu, semper a arcu. Vivamus vulputate urna quis felis facilisis, at molestie sem ultricies.
+Text: Commissioned by <a href="https://ahoylemon.xyz/">Lemon</a> for Grumpy's Bar and Grill in Minneapolis, Minnesota. The direction was a mixture of a grungy bowling ball alley, Minneapolis's vintage neon signage, and 50s design aesthetic, while still appealing as a modern bar. The redesign would utilize the existing logo and blue/red colors. Concepts covered the landing page, standard design for one location, contact page, and menu; all pages had a concept for full-width and mobile versions.
 
 ----
 

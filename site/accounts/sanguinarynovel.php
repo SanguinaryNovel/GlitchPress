@@ -7,8 +7,8 @@ email: aberrant.whimsy@gmail.com
 language: en
 role: admin
 history:
-  - projects/grumpy-s-ui-concepts
   - projects/pretend-world-illustrations
-  - contact
-  - studio
+  - projects/grumpy-s-ui-concepts
   - projects/msbo-baseball-hospitality-invite
+  - projects/artificial-turf-diagram
+  - projects/kingscott-holiday-package

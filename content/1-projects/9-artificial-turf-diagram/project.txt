@@ -12,9 +12,9 @@ Cover-image: artificial-turf_handout_v2_0218.jpg
 
 Text: 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce volutpat sapien non felis blandit feugiat. Integer tincidunt, enim ac tempor eleifend, diam purus interdum sem, sagittis pretium metus tellus at libero. Cras pellentesque erat et ante rutrum imperdiet. Nunc in lorem aliquam, tristique libero ut, auctor orci. Nullam augue sem, rutrum et convallis sit amet, volutpat nec mauris. Etiam ac viverra justo. Nulla vel sollicitudin lacus. Vestibulum eget lectus sed ante scelerisque congue in in ante. Maecenas vitae sapien et urna pulvinar vestibulum. Sed ultricies enim pellentesque, dignissim eros vel, vestibulum dui.
+The project director for Big Rapids Public Schools had been running into a problem during the Facility Committee meetings. The school wanted to build a new football field, but the community insisted that the clay fields would not drain and the artificial turf field would just be consistently flooded and a waste of money. 
 
-Vestibulum sem lacus, tincidunt nec suscipit nec, convallis ultricies mauris. Suspendisse viverra dapibus diam. Sed lobortis ultrices cursus. Suspendisse potenti. Etiam tincidunt volutpat ex vel accumsan. Donec a purus ac tellus euismod sollicitudin non non mi. Proin aliquet fringilla aliquam. Quisque vitae finibus purus. Phasellus porta malesuada lectus tincidunt hendrerit. Nullam vel tellus sapien. Proin sit amet consequat dui. Duis sagittis nulla sit amet ante lobortis, ut tincidunt mi convallis. Vivamus fringilla odio ac turpis porta, sagittis mollis massa bibendum. Vivamus rutrum mauris dui, ac pulvinar eros eleifend vel. Duis iaculis erat tincidunt sapien pellentesque porta.
+The project director asked me to create a document that explained how an artificial turf field drains, sent me a CADD cross section of a turf, and that was about it. After asking a civil engineer to teach me how a football field drains and how it works, I transformed the existing cross-section into something easier to understand. I referenced samples of drainage tubing and turf to create the structure cross-section, finishing the final product in Illustrator.  The final document was assembled in InDesign with some basic copy.
 
 ----
 
