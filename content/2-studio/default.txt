@@ -6,7 +6,7 @@ Subtitle: Qualifications and Experience
 
 ----
 
-Text: 
+Text:
 
 ##Experience
 
@@ -97,7 +97,7 @@ Text:
 <li>Social media
 </ul>
 
-####Web
+####Soft
 <ul>
 <li>Project management
 <li>Collaboration with clients
